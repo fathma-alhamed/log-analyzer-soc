@@ -1,0 +1,7 @@
+Jan 10 10:00:01 login failed user=admin ip=192.168.1.10
+Jan 10 10:00:02 login failed user=admin ip=192.168.1.10
+Jan 10 10:00:03 login failed user=admin ip=192.168.1.10
+Jan 10 10:01:10 login success user=admin ip=192.168.1.10
+Jan 10 10:02:00 login failed user=root ip=10.0.0.5
+Jan 10 10:02:01 login failed user=root ip=10.0.0.5
+Jan 10 10:05:00 login success user=user1 ip=8.8.8.8
