@@ -1,0 +1,8 @@
+log-analyzer-soc/
+│
+├── logs/
+│   └── sample.log
+│
+├── analyzer.py
+├── requirements.txt
+└── README.md
